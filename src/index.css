@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imgm {
+    clip-path: polygon(3% 9%, 5% 2%, 15% 0%, 100% 0, 100% 100%, 11% 100%);
+  }
+  .imgb {
+    clip-path: polygon(8% 0, 89% 0, 100% 8%, 100% 93%, 95% 100%, 8% 100%, 0 95%, 0 6%);
+  }
