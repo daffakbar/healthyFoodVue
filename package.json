@@ -1,7 +1,10 @@
 {
+  "homepage": "http://yuribenjamin.github.io/my-app",
   "name": "healthyFoodVue",
   "version": "0.0.0",
   "scripts": {
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
@@ -14,6 +17,7 @@
     "@vitejs/plugin-vue": "^1.1.2",
     "@vue/compiler-sfc": "^3.0.5",
     "autoprefixer": "^10.2.3",
+    "gh-pages": "^3.1.0",
     "postcss": "^8.2.4",
     "tailwindcss": "^2.0.2",
     "vite": "^2.0.0-beta.48"
