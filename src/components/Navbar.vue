@@ -6,7 +6,7 @@
       <div class="flex items-center pl-4 ">
         <a class="text-xs font-bold text-black no-underline dark:text-gray-50 toggleColour hover:no-underline lg:text-4xl"
           href="#">
-          <img src="../assets/salad.png" alt="" width="42" srcset="" class="inline"> <span class="text-2xl ">HEALTHY
+          <img src="../assets/salad.png" alt="" width="42"  class="inline"> <span class="text-2xl ">HEALTHY
             FOOD</span>
         </a>
       </div>

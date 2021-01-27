@@ -5,7 +5,7 @@
               <div class="flex flex-col w-full py-4 md:flex-row">
                   <div class="justify-center flex-1 text-left">
                       <a class="text-xs text-black no-underline toggleColour hover:no-underline lg:text-4xl" href="#">
-                    <img src="../assets/salad.png" alt="" width="42" srcset="" class="inline my-20"/> <span class="text-2xl dark:text-gray-100 ">HEALTHY FOOD</span>  
+                    <img src="../assets/salad.png" alt="" width="42"  class="inline my-20"/> <span class="text-2xl dark:text-gray-100 ">HEALTHY FOOD</span>  
                   </a>
                 </div>
                 <div class="flex-1 text-left">
